@@ -1,0 +1,12 @@
+# Downloaded images
+downloads/
+
+# Portal export (contains subscription-specific URLs)
+input.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
