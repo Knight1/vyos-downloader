@@ -1,0 +1,41 @@
+{
+  "data": {
+    "invokeExtension": {
+      "success": true,
+      "response": {
+        "body": {
+          "results": [
+            {
+              "label": "VyOS 1.3.8 - Generic",
+              "id": "289",
+              "objectKey": "VSD-289",
+              "fileLink": "https://cdn.vyos.io/1.3.8/generic-iso/<uuid>/vyos-1.3.8-amd64.iso",
+              "gpgSignature": "https://cdn.vyos.io/1.3.8/generic-iso/<uuid>/vyos-1.3.8-amd64.iso.asc",
+              "minisignSignature": "https://cdn.vyos.io/1.3.8/generic-iso/<uuid>/vyos-1.3.8-amd64.iso.minisig",
+              "version": "1.3.8",
+              "deploymentPlatform": "Generic",
+              "downloadType": "Fresh Installation",
+              "created": "12/Mar/25 4:47 PM",
+              "updated": "12/Mar/25 4:47 PM",
+              "product": "VyOS Universal Router"
+            },
+            {
+              "label": "VyOS 1.3.8 - QEMU/KVM",
+              "id": "290",
+              "objectKey": "VSD-290",
+              "fileLink": "https://cdn.vyos.io/1.3.8/qemu/<uuid>/vyos-1.3.8-qemu-amd64.qcow2",
+              "gpgSignature": "https://cdn.vyos.io/1.3.8/qemu/<uuid>/vyos-1.3.8-qemu-amd64.qcow2.asc",
+              "minisignSignature": "https://cdn.vyos.io/1.3.8/qemu/<uuid>/vyos-1.3.8-qemu-amd64.qcow2.minisig",
+              "version": "1.3.8",
+              "deploymentPlatform": "QEMU/KVM",
+              "downloadType": "Fresh Installation",
+              "created": "12/Mar/25 4:47 PM",
+              "updated": "12/Mar/25 4:47 PM",
+              "product": "VyOS Universal Router"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
