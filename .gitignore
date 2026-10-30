@@ -4,6 +4,9 @@ downloads/
 # Portal export (contains subscription-specific URLs)
 input.json
 
+# ETag cache
+.etags.json
+
 # Python
 __pycache__/
 *.pyc
